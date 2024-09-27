@@ -30,4 +30,4 @@ jobs:
 
       - name: Run tests
         run: |
-          python -m pytest src/test_Add.py  # Adjust the path as necessary
+          python -m pytest test_Add.py  # Adjust the path as necessary
